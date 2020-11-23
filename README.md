@@ -1,4 +1,4 @@
-# QuantumBinaryAddeer
+# QuantumBinaryAdder
 A binary adder based on qiskit quantum model which adds the given binary number
 
 This Quantum circuit is based on the paper
